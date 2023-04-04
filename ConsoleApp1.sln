@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{16723D8E-C683-4881-B3D5-C6C7D2A509DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Release|ARM64.ActiveCfg = Release|ARM64
+		{16723D8E-C683-4881-B3D5-C6C7D2A509DE}.Release|ARM64.Build.0 = Release|ARM64
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{0D4B4DC7-BE2A-49A6-8ACA-2F05EB862045}.Release|ARM64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D297C80D-65EE-4B95-A57D-72A4740275B0}
+	EndGlobalSection
+EndGlobal
